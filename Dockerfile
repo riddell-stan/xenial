@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 
 # Script to choose Python version
 COPY choose_python.sh /usr/bin/
